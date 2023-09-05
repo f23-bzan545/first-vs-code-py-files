@@ -1,5 +1,7 @@
 import random
 
+# IDE - integrated development environment
+
 # sides selfishly based on how adam sees you from his POV
 room_sides = ["left", "right"]
 rows = ["front", "middle", "back"]
